@@ -8,20 +8,11 @@ This repository is an archived copy of the original CoinBlockerLists project, wh
 
 > **Note:** The original project has been discontinued by its creator. This archive exists to preserve the lists for those who found them useful. No active maintenance or updates are provided.
 
-The original maintainer discontinued the project in 2024 due to health reasons and insufficient community support. This repository preserves the last available version of these lists for historical and reference purposes.
+The original maintainer [announced](https://zerodot1.gitlab.io/CoinBlockerListsWeb/info.txt) the indefinite suspension of the project in 2024 due to health reasons and insufficient community support. This repository preserves the last available version of these lists for historical and reference purposes.
 
 ## About CoinBlockerLists
 
 CoinBlockerLists were simple filter lists designed to prevent cryptomining in browsers and other applications. These lists can be used with various blocking software including browser extensions, firewalls, and network-level filtering.
-
-## Available Lists
-
-The repository contains several lists in different formats:
-
-- Hosts files for system-level blocking
-- Domain lists for DNS-level blocking
-- Browser-optimized lists
-- IP address lists
 
 ## Usage
 
@@ -43,4 +34,4 @@ While this is primarily an archive, issues and pull requests that improve the do
 
 ## References
 
-For more information about mining protection and related resources, see the [references page](https://web.archive.org/web/*/https://zerodot1.gitlab.io/CoinBlockerListsWeb/references.html) (archived version).
+For more information about mining protection and related resources, see the [references page](https://zerodot1.gitlab.io/CoinBlockerListsWeb/references.html).
